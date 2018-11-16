@@ -1,4 +1,4 @@
-<h5><a href="http://bensoft.de/projects/smartmirror">Visit my webpage! (images etc.)</a></h5>
+<h5><a href="http://bensoft.de/projects/octalight">Visit my webpage! (images etc.)</a></h5>
 <h1>OctaLight</h1>
 						<h2>Description</h2>
 						<p>
