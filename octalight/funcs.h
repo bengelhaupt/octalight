@@ -1,10 +1,10 @@
 /*
    OctaLight
    
-   A project by Ben-Noah Engelhaupt (code@bensoft.de) Github: bensoftde
+   A project by Ben-Noah Engelhaupt (code@bengelhaupt.com) Github: bengelhaupt
    Published under GNU General Public License v3.0
    
-   http://bensoft.de/projects/octalight
+   http://bengelhaupt.com/projects/octalight
 */
 
 #ifndef FUNCS_H
@@ -61,5 +61,3 @@ bool setPixelsColor(NeoPixelBus<NeoGrbwFeature, NeoEsp8266Dma800KbpsMethod> *str
 bool setPixelColor(NeoPixelBus<NeoGrbwFeature, NeoEsp8266Dma800KbpsMethod> *strip, bool (*icr)(), int pixel, RgbwColor color, int transitionSpeed);
 
 #endif
-
-

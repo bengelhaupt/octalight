@@ -1,10 +1,10 @@
 /*
    OctaLight
    
-   A project by Ben-Noah Engelhaupt (code@bensoft.de) Github: bensoftde
+   A project by Ben-Noah Engelhaupt (code@bengelhaupt.com) Github: bengelhaupt
    Published under GNU General Public License v3.0
    
-   http://bensoft.de/projects/octalight
+   http://bengelhaupt.com/projects/octalight
 */
 
 #ifndef VALUES_H
@@ -19,4 +19,3 @@ const unsigned int OuterPixelCount = 88;  //outer pixel count
 const unsigned int InnerPixelCount = 56;  //inner pixel count
 
 #endif
-

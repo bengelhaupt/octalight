@@ -1,10 +1,10 @@
 /*
    OctaLight
    
-   A project by Ben-Noah Engelhaupt (code@bensoft.de) Github: bensoftde
+   A project by Ben-Noah Engelhaupt (code@bengelhaupt.com) Github: bengelhaupt
    Published under GNU General Public License v3.0
    
-   http://bensoft.de/projects/octalight
+   http://bengelhaupt.com/projects/octalight
 */
 
 #include "funcs.h"
@@ -248,4 +248,3 @@ bool setPixelColor(NeoPixelBus<NeoGrbwFeature, NeoEsp8266Dma800KbpsMethod> *stri
 
   return false;
 }
-
