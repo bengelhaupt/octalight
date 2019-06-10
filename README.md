@@ -158,29 +158,6 @@
 						<p>
 							Pixel zero is situated at the controller and the outer pixels (red) range counterclockwise back to it. From there the inner pixels (green) form a bow. Not all the strips can be connected directly: There has to be a cable connection to connect the two inner strands (black-green).
 						</p>
-						<h2>Parts list</h2>
-						<p>
-							<ul>
-								<li>
-									Wooden bars as base (5m length, 1-2cm wide) [5€]
-								</li>
-								<li>
-									<a href="https://www.aliexpress.com/item/Best-Price-1m-5m-Addressable-SK6812-RGBW-led-strip-WWA-4-Color-in-1-Led-Waterproof/32768952249.html">Per-LED-controllable LED strip with 4 colors (5m, 30 LEDs/m, temperature per your liking)</a> [17€]
-								</li>
-								<li>
-									<a href="https://www.aliexpress.com/item/5V-12V-24V-LED-Power-Supply-2A-3A-5A-7A-8A-10A-For-5V-12V-24V/32694173521.html">Power adapter for the strip (5V 8A)</a> [8€]
-								</li>
-								<li>
-									<a href="https://www.aliexpress.com/item/ASCELINA-1-pcs-DC-Power-female-Connectors-Plug-5-5-x-2-1mm-Jack-Adapter-Connector/32799252247.html">Wire adapter</a> [&lt;1€]
-								</li>
-								<li>
-									<a href="https://www.aliexpress.com/item/NodeMcu-Lua-WIFI-development-board-based-on-the-ESP8266-Internet-of-things/32443964726.html">NodeMCU ESP8266 development board</a> [3€]
-								</li>
-								<li>
-									Wires, tape, glue, tools
-								</li>
-							</ul>
-						</p>
 						<h2>Further information</h2>
 						<p>
 							More information can be found on the <a href="http://bengelhaupt.com/projects/octalight">project website</a>
