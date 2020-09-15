@@ -1,12 +1,13 @@
 <h1>OctaLight</h1>
 						<h2>Description</h2>
 						<p>
-							OctaLight is a DIY project. It consists of an led strip wired in an octagon shape with a cross in the middle of it. It is powered by a NodeMCU chip with WiFi capabilities. Through implementation of a simple HTTP server, the light reacts to GET requests. It can be controlled via the in-built web control panel.
+							OctaLight is a DIY project. It consists of an led strip wired in an octagon shape with a cross in the middle of it. It is powered by a NodeMCU chip with WiFi capabilities. Through implementation of a simple HTTP server, the light reacts to GET requests. It can be controlled via the in-built web control panel and has Google Smarthome support (see the library docs for details).
 						</p>
 						<p>
 							Required libraries:<br>
 							<ul>
 								<li><a href="https://github.com/Makuna/NeoPixelBus">NeoPixelBus by Makuna</a></li>
+								<li><a href="https://github.com/bengelhaupt/esp8266-google-assistant-smarthome">esp8266-google-assistant-smarthome</a></li>
 							</ul>
 						</p>
 						<h2>GET request endpoints</h2>
